@@ -1,4 +1,4 @@
-module github.com/porech/caddy-maxmind-geolocation
+module github.com/krzsztf/caddy-maxmind-geolocation
 
 go 1.22.0
 
